@@ -1,7 +1,7 @@
 # Data
 Data/*.csv
 Data/*.parquet
-artifacts/
+artifacts/*.pk1
 
 # Python
 __pycache__/
@@ -14,8 +14,9 @@ venv/
 .ipynb_checkpoints/
 
 # Models
-models/*.pkl
-models/*.joblib
+models/baseline_logistic_regression.joblib
+models/baseline_random_forest.joblib
+models/preprocessor.joblib
 
 # OS
 .DS_Store
