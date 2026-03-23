@@ -25,7 +25,5 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
-.claude/
-code_sessions/
-CLAUDE.md
+
 
